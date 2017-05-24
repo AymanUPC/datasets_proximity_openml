@@ -22,7 +22,7 @@ To retrieve the original datasets from OpenML using the APIs provided by them, p
 
 ## License
 
-This project is licensed under the Apache License 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License 2.0 License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 We are sincerely thankful to all the annototators who have validated and collaborated in creating the ground-truth datasets for the experiments. We thank the collaborators from the school of Pharmacy for helping us with the annotation of the datasets.

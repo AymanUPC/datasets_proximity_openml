@@ -26,3 +26,6 @@ This project is licensed under the Apache License 2.0 License - see the [LICENSE
 
 ## Acknowledgments
 We are sincerely thankful to all the annototators who have validated and collaborated in creating the ground-truth datasets for the experiments. We thank the collaborators from the school of Pharmacy for helping us with the annotation of the datasets.
+
+## Reference
+For more details about the datasets in this project, how they were collected, and for a detailed description of the data collected, please see the main publication resulting from this project: _"Alserafi, A., Calders, T., Abelló, A., & Romero, O. (2017, October). **DS-Prox: Dataset Proximity Mining for Governing the Data Lake.** In International Conference on Similarity Search and Applications (pp. 284-299). Springer, Cham."_.
